@@ -1,3 +1,4 @@
+https://techhay.vn/cicd-pipeline-codebuild-codedeploy-a16f9441-3a44-4593-b2c4-7516621d8f29/?fbclid=IwAR21MhVoU4RVS6-ePnscKjbBmDgH7kJA2QYlca3wUDZugSsvqRtqd6bxm2w
 ### 1. Init
 - Fork github repo
 - Github connection
